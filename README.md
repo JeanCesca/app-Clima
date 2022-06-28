@@ -1,54 +1,12 @@
+#  app-Clima
+Aplicativo que busca os dados do clima de cada cidade, baseado na localização.
 
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
-#  Clima
-
-## Our Goal
-
-It’s time to take our app development skills to the next level. We’re going to introduce you to the wonderful world of Application Programming Interfaces (APIs) to grab live data from the internet. If you’re dreaming of making that Twitter-powered stock trading app then you’re about add some serious tools to your toolbelt!
+## Skills para o desenvolvimento do app:
+Core Location para pegar a localização atual do GPS do aparelho; JSON; REST APIs; Closures; Protocols e Extensions; e Dark-mode.
 
 
-## What you will create
+# View 1 (Exemplos)
 
-By the end of the module, you will have made a beautiful, dark-mode enabled weather app. You'll be able to check the weather for the current location based on the GPS data from the iPhone as well as by searching for a city manually. 
+<img width="753" alt="Screen Shot 2022-06-28 at 15 57 33" src="https://user-images.githubusercontent.com/102806228/176323293-cb52b885-a335-432e-8ce3-90972665a6d6.png">
 
-## What you will learn
-
-* How to create a dark-mode enabled app.
-* How to use vector images as image assets.
-* Learn to use the UITextField to get user input. 
-* Learn about the delegate pattern.
-* Swift protocols and extensions. 
-* Swift guard keyword. 
-* Swift computed properties.
-* Swift closures and completion handlers.
-* Learn to use URLSession to network and make HTTP requests.
-* Parse JSON with the native Encodable and Decodable protocols. 
-* Learn to use Grand Central Dispatch to fetch the main thread.
-* Learn to use Core Location to get the current location from the phone GPS. 
-
-### Condition Codes
-```
-switch conditionID {
-        case 200...232:
-            return "cloud.bolt"
-        case 300...321:
-            return "cloud.drizzle"
-        case 500...531:
-            return "cloud.rain"
-        case 600...622:
-            return "cloud.snow"
-        case 701...781:
-            return "cloud.fog"
-        case 800:
-            return "sun.max"
-        case 801...804:
-            return "cloud.bolt"
-        default:
-            return "cloud"
-        }
-```
-
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
+<img width="753" alt="Screen Shot 2022-06-28 at 15 58 59" src="https://user-images.githubusercontent.com/102806228/176323308-8e822f83-4ed4-4af1-b176-15b63766e76f.png">
