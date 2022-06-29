@@ -2,7 +2,7 @@
 Aplicativo que busca os dados do clima de cada cidade, baseado na localização.
 
 ## Skills para o desenvolvimento do app:
-Core Location para pegar a localização atual do GPS do aparelho; JSON; REST APIs; Closures; Protocols e Extensions; e Dark-mode.
+Core Location para pegar a localização atual do GPS do aparelho; JSON; REST APIs; Closures; Protocols e Extensions; Dark-mode.
 
 
 # View 1 (Exemplos)
